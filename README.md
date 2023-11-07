@@ -54,7 +54,7 @@ generate the annual examination results are tabulated as follows:
 Result
 
 ----------------------------------------------------------------------------
-Roll no Name Sub1 Sub2 Sub3 Total per % Class
+Roll | no | Name | Sub1 | Sub2 | Sub3 | Total | per % | Class
 ----------------------------------------------------------------------------
 
 30. Write a c program to input employee no, employee name and basic and to store output into
@@ -67,11 +67,11 @@ GROSS = BASIC + DA + HRA + MA NET-PAY = GROSS – PF
 A/c Department
 
 --------------------------------------------------------------------------------------------------
-Emp-No Name Basic DA HRA MA PF GROSS NET-PAY
+Emp-No| Name  | Basic | DA   | HRA  | MA   | PF  | GROSS | NET-PAY <br>
 --------------------------------------------------------------------------------------------------
-1 xyz 5000 2500 500 100 500 8100 7600
-2
-3
+1      |xyz   | 5000  | 2500 | 500  |100   | 500 | 8100  | 7600   <br>
+2      |      |       |      |      |      |     |       |         <br>
+3      |      |       |      |      |      |     |       |         <br>
 ---------------------------------------------------------------------------------------------------
 
 31. Write a c program to read empin data file which contains empno, empname and basic. To
